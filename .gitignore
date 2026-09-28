@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Production build
+dist/
+frontend/dist/
+
+# Python cache & database
+__pycache__/
+*.pyc
+*.db
+backend/*.db
+.venv/
+venv/
+env/
+
+# Environment & logs
+.env
+*.log
+
+# IDE
+.vscode/
+.idea/
